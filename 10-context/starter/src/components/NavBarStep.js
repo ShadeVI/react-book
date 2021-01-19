@@ -1,6 +1,6 @@
 import React from "react";
 
-class WelcomeMessage extends React.Component {
+class NavBarStep extends React.Component {
   state = {
     step: `1`,
   };
@@ -22,4 +22,4 @@ class WelcomeMessage extends React.Component {
   }
 }
 
-export default WelcomeMessage;
+export default NavBarStep;
